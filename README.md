@@ -77,8 +77,8 @@ Useful Links
 - Track deadlines and schedules.
 *  You can access notation by
    visiting official website:
-      https//www.notation.com
-* Downloading the notation app in Google play store
+      https//www.notion.com
+* Downloading the notion app in Google play store
 * Download for Windows or mac from
  notion.so
   ## Canva
