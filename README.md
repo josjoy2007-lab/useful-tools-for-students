@@ -18,8 +18,12 @@ Each section is written by a different team member.
 <!-- [vines23] will write this section -->
 
 ## Notion
-<!-- [Josjoy2007-lab] will write this section -->
-
+* Notion helps in combination ofthe following into one workspace:
+ -  Task management
+ -  Databases
+ -  Ai
+ -  collaboration
+    
 ## Canva
 <!-- [haniumusalama] will write this section -->
 ## Github
