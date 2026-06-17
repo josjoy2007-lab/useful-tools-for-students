@@ -75,7 +75,7 @@ Useful Links
 8. Calendar and Scheduling
 - View tasks and events in a calendar format.
 - Track deadlines and schedules.
-*  You can access notation by
+*  You can access notion by
    visiting official website:
       https//www.notion.com
 * Downloading the notion app in Google play store
